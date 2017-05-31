@@ -133,8 +133,10 @@ We can solve this by correctly delineating resources and using links
 
 * The Cost of Cruft
 
-All of these fixes and hacks incur significant costs including
+All of these fixes and hacks incur significant costs including:
 
 - Technical debt and maintenance surface area
 - Dark magic
 - Development time
+
+So please consider uniform interfaces when you're designing/augmenting APIs.
